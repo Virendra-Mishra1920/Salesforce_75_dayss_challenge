@@ -1,0 +1,55 @@
+What is Customer Relationship Management(CRM)?
+
+CRM softwares allows business to manage their customer and prospect relationship with data. We can store, track, analyes
+and prospect information at the central location, including contact and account info, sales opp, service cases, marketing etc.
+    With CRM all custometrs data store at the central location, organisation have complete picture of the customer
+    that can be shared and analyes by then team in real time. 
+
+
+Prospects — the potential customers you want to sell to — are the fuel for the sales pipeline.
+            Every prospect represents a possible deal. So growing your base of prospects and working 
+            to nurture them will grow your revenue
+
+
+What all CRM available in the market?
+
+1. Salesforce
+2. NetSuite 
+3. SAP
+4. ZOHO
+5. SugarCRM
+6. Zendesk
+7.HubSpot
+8. Sage
+9. Freshworks
+10.Apptivo
+
+Salesforce?
+Salesforce is world's no.1 CRM platform. It helps marketing, sales, commerce, services and IT team to work as one
+accross the gloab. 
+
+What is the purpose of Salesforce?
+
+Salesforce is a cloud based CRM and the main purpose of Salesforce to help business run effeciently and profitably
+by lowering cost of owning hardware infrastructure. 
+
+Why salesforce is the best CRM in the industary?
+
+1. Salesforce provides management transparency for companies with what’s going on in different teams.
+2. They assist a company’s marketing staff in creating and tracking various marketing programs, as well as 
+instantly providing leads to the sales team.
+3. They maintain track of numerous customer complaints and monitor them for resolution depending on various escalation rules, 
+such as the client’s priority and the amount of time that has passed.
+ This improves customer satisfaction by making sure problems don’t fall through the cracks and
+  go straight to the next level.
+4.They can be linked to other systems through AppExchange, which is a business app store for Salesforce. This makes Salesforce more powerful.
+5. Huge Salesforce community like trailhead 
+
+//https://focusonforce.com/crm/top-5-reasons-why-salesforce-is-the-best-crm/
+Here are top resons which makes salesforce best CRM.
+
+1.  It provides a wide range of services.
+2.  It gives well-planned customization and scalability.
+3. It provides better management, support, and marketing.
+4.  It has great data security and safety.
+5. Its acquisitions are strategic and purposeful.
