@@ -1,0 +1,31 @@
+Objects: In Salesforce objects are use to store data. In the object we can create multple fields. One object can conatins
+multiple records.
+
+Object in salesforce is similar to Sql tables. 
+
+There are 2 types of objects available in salesforce.
+
+    1. Standard Objects(Pree defined)
+    2. User defined objects
+
+    Example: lets say we have Student object.
+            Student contains several fileds like Name, age, rollNo, class etc.
+            collection of all thsese filds toghter known as record.
+
+    
+    Note: With every object salesforce create API name filed which prefix by _ at the end. API filed name is same as the custome lable name. 
+
+    How to  create Custom object in salesforce.
+
+    To create a custom object first you need playground so
+
+
+   * Objects are tables in the Salesforce database that store a particular kind of information. There are standard objects like Accounts and Contacts and custom objects.
+
+   * Records are rows in object database tables. Records are the actual data associated with an object.
+
+   * Fields are columns in object database tables. Both standard and custom objects have fields. On our Property object, we have fields like Address and Price.
+
+
+Started Admin Beginner course Trailhead
+
