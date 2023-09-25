@@ -1,0 +1,25 @@
+Salesforce Architecture:
+
+Salesforce supports multitenancy architecture which says that salesforce is sharing equal amount of resources to the customer.
+
+Example: Let's say we have appartment , and inside the appartment we have multiple flats available..
+        while sharing resources(wire,water,tele cable) to the flat. So, we shares equal amount of resources
+        to each and everyone.
+
+
+If we talk about in salesforce term..
+
+1. Every client has equal amount of resource sharing. It's not like one client has extra resources than others..
+2. Isolation: Even all cilents are available to the same salesforce could platform but no one knows about others.
+    client only has their owen data access autority..
+3. Governer limit:  The amount to data creation salesforce provides to the customer , so customer can't exceed the
+                    limit of it.
+
+
+Note: Salesforce provides a core set of services to all our customers in the multitenant cloud. No matter the size of your business, you get access to the same computing power, data storage, and core features..
+
+
+There are other components of salesforce architecture.
+
+    1. Meta Data
+    2. Salesforce API
